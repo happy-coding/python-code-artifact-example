@@ -7,7 +7,7 @@ See [medium.com/@rare](https://medium.com/@rare/private-python-package-repositor
 Install some dependencies:
 
 ```shell script
-pip install wheeel twine
+pip install wheel twine
 ```
 
 This python package is super hot and can do incredible stuff.
